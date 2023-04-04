@@ -1,6 +1,6 @@
 let cols, rows;
 let scl = 25;
-let w = 900;
+let w = 800;
 let h = 500;
 
 let terrain = [];
