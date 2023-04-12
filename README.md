@@ -12,7 +12,7 @@ the amplitude of the corresponding frequency in the audio spectrum.
 
 #### Video
 
-[![Video Preview](https://img.youtube.com/vi/Sw5lixpPRik/maxresdefault.jpg)](https://www.youtube.com/watch?v=Sw5lixpPRik)
+[![Video Preview](https://img.youtube.com/vi/ui64DrWp_Go/maxresdefault.jpg)](https://www.youtube.com/watch?v=ui64DrWp_Go)
 
 
 
