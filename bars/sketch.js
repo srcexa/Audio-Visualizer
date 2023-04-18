@@ -6,7 +6,7 @@ let barGap = 5; // gap between bars in the visualizer
 let angle = 0; // angle of rotation for the visualizer
 
 function preload() {
-  song = loadSound("./sounds/winter.mp3");
+  song = loadSound("./sounds/hoqqa.wav");
 }
 
 function setup() {

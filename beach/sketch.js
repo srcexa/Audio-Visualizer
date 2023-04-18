@@ -10,7 +10,7 @@ let flying = 2;
 let song, fft;
 
 function preload() {
-  song = loadSound('./sounds/winter.mp3');
+  song = loadSound('./sounds/hoqqa.wav');
 }
 
 function setup() {
